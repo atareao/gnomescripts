@@ -1,0 +1,1 @@
+Se trata de un conjunto de utilidades realizadas en Python para acelerar los trabajos mas usuales realizados en Gnome. Tratar con imágenes, pdf, documentos y demás.
